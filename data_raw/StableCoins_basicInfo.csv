@@ -1,0 +1,60 @@
+id,name,symbol,gecko_id,pegType,priceSource,circulating_peggedUSD,chains,price,R_ExtractDate
+1,Tether,USDT,tether,peggedUSD,chainlink,66284219403.40034,"['Tron', 'Ethereum', 'Solana', 'BSC', 'Omni', 'Avalanche', 'Polygon', 'Heco', 'Arbitrum', 'Algorand', 'Fantom', 'EOS', 'Oasis', 'KCC', 'Aurora', 'Gnosis', 'OKExChain', 'Optimism', 'Liquidchain', 'Moonbeam', 'Harmony', 'Metis', 'Moonriver', 'Astar', 'zkSync', 'Bittorrent', 'RSK', 'Milkomeda', 'Loopring', 'IoTeX', 'Boba', 'Fuse', 'Evmos', 'Telos', 'Statemine', 'Kardia', 'TomoChain', 'Meter', 'Terra Classic', 'Syscoin', 'Celo', 'Crab', 'Shiden', 'Theta', 'Kava']",1.00013136,2022-07-23
+2,USD Coin,USDC,usd-coin,peggedUSD,chainlink,54264436337.76104,"['Ethereum', 'Solana', 'Tron', 'Avalanche', 'BSC', 'Polygon', 'Arbitrum', 'Fantom', 'Algorand', 'Optimism', 'Stellar', 'Aurora', 'Moonbeam', 'Gnosis', 'Moonriver', 'Harmony', 'Ronin', 'KCC', 'Loopring', 'Milkomeda', 'Metis', 'Astar', 'zkSync', 'Flow', 'Hedera', 'Evmos', 'OKExChain', 'Boba', 'DFK', 'Oasis', 'Fuse', 'Celo', 'Telos', 'Syscoin', 'Karura', 'Elastos', 'Meter', 'Terra Classic', 'Theta', 'Crab', 'TomoChain', 'RSK', 'Kava']",1.00009393,2022-07-23
+3,TerraClassicUSD,USTC,terrausd,peggedUSD,chainlink,11278778389.0,"['Terra Classic', 'Ethereum', 'BSC', 'Avalanche', 'Polygon', 'Solana', 'Fantom', 'Harmony', 'Aurora', 'Moonbeam', 'Oasis', 'Fuse', 'Metis', 'Celo', 'Arbitrum', 'Optimism', 'DFK']",0.03791671,2022-07-23
+4,Binance USD,BUSD,binance-usd,peggedUSD,chainlink,17973616908.110004,"['Ethereum', 'BSC', 'Kava', 'Astar', 'Harmony', 'Solana', 'Boba', 'Moonriver', 'IoTeX', 'Moonbeam', 'OKExChain', 'Polygon', 'Meter', 'Milkomeda', 'Fuse', 'Elastos', 'Avalanche', 'Fantom', 'Aurora', 'Theta', 'KCC', 'Syscoin', 'Terra Classic', 'Shiden', 'Evmos', 'Metis', 'RSK', 'Loopring', 'Oasis']",1.0,2022-07-23
+5,Dai,DAI,dai,peggedUSD,chainlink,6891557592.54867,"['Ethereum', 'Avalanche', 'BSC', 'Fantom', 'Polygon', 'Gnosis', 'Arbitrum', 'Optimism', 'Harmony', 'Moonbeam', 'zkSync', 'Astar', 'Moonriver', 'Solana', 'Aztec', 'Milkomeda', 'Aurora', 'Boba', 'Loopring', 'Evmos', 'RSK', 'Velas', 'StarkNet', 'KCC', 'Syscoin', 'Shiden', 'Terra Classic', 'Oasis']",1.0,2022-07-23
+6,Frax,FRAX,frax,peggedUSD,chainlink,1406058926.7042148,"['Ethereum', 'Fantom', 'Arbitrum', 'Moonriver', 'Polygon', 'Moonbeam', 'Avalanche', 'Optimism', 'Harmony', 'Aurora', 'Boba', 'BSC', 'Evmos', 'zkSync', 'Solana', 'Milkomeda']",0.999787,2022-07-23
+7,TrueUSD,TUSD,true-usd,peggedUSD,chainlink,1224972327.0924451,"['Ethereum', 'Tron', 'BSC', 'Cronos', 'Polygon', 'Avalanche', 'Fantom', 'Arbitrum', 'Heco', 'Syscoin']",0.99969625,2022-07-23
+8,Liquity USD,LUSD,liquity-usd,peggedUSD,chainlink,181064547.4108377,"['Ethereum', 'Optimism', 'Polygon', 'Avalanche', 'BSC', 'Fantom']",1.02255905,2022-07-23
+9,Fei USD,FEI,fei-usd,peggedUSD,chainlink,201014611.73878428,['Ethereum'],0.99685674,2022-07-23
+10,Magic Internet Money,MIM,magic-internet-money,peggedUSD,chainlink,217510692.46863863,"['Ethereum', 'Avalanche', 'Fantom', 'Arbitrum', 'Moonriver', 'Metis', 'BSC', 'Polygon', 'Boba']",0.99808599,2022-07-23
+11,Pax Dollar,USDP,paxos-standard,peggedUSD,chainlink,872785260.36,"['Ethereum', 'BSC']",0.99995612,2022-07-23
+12,Neutrino USD,USDN,neutrino,peggedUSD,chainlink,745203425.0,"['Waves', 'Ethereum', 'BSC', 'Polygon']",0.9914425,2022-07-23
+13,YUSD Stablecoin,YUSD,yusd-stablecoin,peggedUSD,curve,54729931.51887525,['Avalanche'],0.9949612,2022-07-23
+14,USDD,USDD,usdd,peggedUSD,curve,725332037.8314661,"['Tron', 'Ethereum', 'BSC', 'Bittorrent']",0.9965177725636136,2022-07-23
+15,Dola,DOLA,dola-usd,peggedUSD,curve,57811870.766242184,"['Ethereum', 'Fantom']",0.9993724395455996,2022-07-23
+16,Parrot USD,PAI,parrot-usd,peggedUSD,birdeye,19102999.891892,['Solana'],0.9956500362675642,2022-07-23
+17,HUSD,HUSD,husd,peggedUSD,curve,182936148.25981322,"['Ethereum', 'Heco', 'Tron', 'Elastos', 'Solana']",0.9970329641273693,2022-07-23
+18,Nexus USD,NUSD,nexus-usd,peggedUSD,,18537754.21504123,"['Ethereum', 'Arbitrum', 'BSC', 'Avalanche', 'Metis', 'Fantom', 'Polygon', 'Optimism', 'Aurora', 'Harmony', 'Boba', 'Cronos']",,2022-07-23
+19,Gemini Dollar,GUSD,gemini-dollar,peggedUSD,chainlink,166747865.04,"['Ethereum', 'Wanchain']",0.99913923,2022-07-23
+20,Alchemix USD,ALUSD,alchemix-usd,peggedUSD,curve,187739711.48665875,"['Ethereum', 'Fantom', 'Optimism', 'Arbitrum']",0.9917454167736272,2022-07-23
+21,flexUSD,FLEXUSD,flex-usd,peggedUSD,coingecko,196350222.53857544,"['smartBCH', 'Ethereum']",0.397945,2022-07-23
+22,sUSD,SUSD,nusd,peggedUSD,chainlink,159609474.51564246,"['Ethereum', 'Optimism', 'Fantom', 'Arbitrum']",1.00807293,2022-07-23
+23,Origin Dollar,OUSD,origin-dollar,peggedUSD,curve,54223232.16013382,['Ethereum'],0.9959696863122222,2022-07-23
+24,Celo Dollar,CUSD,celo-dollar,peggedUSD,kucoin,51313529.618888356,"['Celo', 'Ethereum', 'Solana']",0.9965,2022-07-23
+25,Reserve,RSV,reserve,peggedUSD,curve,28222799.792982586,"['Ethereum', 'Gnosis']",0.9972726683923383,2022-07-23
+26,mStable USD,MUSD,musd,peggedUSD,curve,54089929.31508608,"['Ethereum', 'Polygon', 'Gnosis']",1.0003786948408462,2022-07-23
+27,USDK,USDK,usdk,peggedUSD,chainlink,42478711.0,"['Ethereum', 'OKExChain', 'Solana', 'Polygon']",1.0,2022-07-23
+28,Vai,VAI,vai,peggedUSD,chainlink,21281384.30430131,['BSC'],0.94253464,2022-07-23
+29,TOR,TOR,tor,peggedUSD,curve,17070482.490329992,['Fantom'],0.9991880515113657,2022-07-23
+30,Dollar on Chain,DOC,doc,peggedUSD,,5115392.898446637,"['RSK', 'Ethereum']",,2022-07-23
+31,SpiceUSD,USDS,spiceusd,peggedUSD,curve,17830343.21093035,"['Avalanche', 'BSC', 'Polygon', 'Ethereum']",0.9926875038798593,2022-07-23
+32,Sperax USD,USDS,sperax-usd,peggedUSD,dexscreener,6430767.90963633,['Arbitrum'],0.9989,2022-07-23
+33,USDP Stablecoin,USDP,usdp,peggedUSD,curve,4536003.34498929,"['Ethereum', 'BSC', 'Gnosis', 'Fantom']",0.9996974698151141,2022-07-23
+34,USD Balance,USDB,usd-balance,peggedUSD,dexscreener,2517460.795027077,['Fantom'],0.9985,2022-07-23
+35,MAI,MAI,mimatic,peggedUSD,curve,56301279.50058311,"['Polygon', 'Fantom', 'Optimism', 'Moonriver', 'Avalanche', 'BSC', 'Harmony', 'Gnosis', 'Cronos', 'Arbitrum', 'Solana', 'IoTeX', 'Aurora', 'Milkomeda', 'Metis', 'Celo']",0.9947370352696555,2022-07-23
+36,Ratio Stable Coin,USDR,ratio-stable-coin,peggedUSD,birdeye,2740482.564063,['Solana'],1.0,2022-07-23
+37,USDJ,USDJ,just-stablecoin,peggedUSD,coingecko,14927212.125369627,['Tron'],0.998703,2022-07-23
+38,STBL,STBL,stbl,peggedUSD,,8582423.691673,['Algorand'],,2022-07-23
+39,VOLT Protocol,VOLT,volt-protocol,peggedVAR,coingecko,,"['Ethereum', 'Arbitrum']",1.004,2022-07-23
+40,Rai Reflex Index,RAI,rai,peggedVAR,chainlink,,"['Ethereum', 'Polygon', 'Loopring', 'Optimism', 'Arbitrum', 'Gnosis', 'Avalanche']",2.93193039,2022-07-23
+41,Float Protocol Float,FLOAT,float-protocol-float,peggedVAR,dexscreener,,['Ethereum'],1.18,2022-07-23
+42,USDX,USDX,usdx,peggedUSD,coingecko,110988492.0,['Kava'],0.965567,2022-07-23
+43,ZUSD,ZUSD,zusd,peggedUSD,,1382914.151951,['Ethereum'],,2022-07-23
+44,dForce USD,USX,token-dforce-usd,peggedUSD,curve,140882997.2235481,"['Ethereum', 'BSC', 'Arbitrum', 'Polygon', 'Optimism', 'Kava', 'Avalanche']",0.996947331586889,2022-07-23
+45,Acala Dollar,AUSD,acala-dollar,peggedUSD,,8749014.134048264,"['Acala', 'Karura']",,2022-07-23
+46,USD+,USD+,usd,peggedUSD,coingecko,3556880.052284,['Polygon'],1.001,2022-07-23
+47,DEI,DEI,dei-token,peggedUSD,curve,13871508.523725845,"['Fantom', 'Polygon', 'Ethereum', 'BSC', 'Metis']",0.20500673732227015,2022-07-23
+48,BAI Stablecoin,BAI,bai-stablecoin,peggedUSD,dexscreener,4265231.219835633,['Astar'],1.0,2022-07-23
+49,Euro Tether,EURT,tether-eurt,peggedEUR,chainlink,,"['Ethereum', 'Polygon', 'Omni']",1.01441461,2022-07-23
+50,Euro Coin,EUROC,euro-coin,peggedEUR,,,['Ethereum'],,2022-07-23
+51,Stasis Euro,EURS,stasis-eurs,peggedEUR,curve,,"['Ethereum', 'Polygon', 'Algorand', 'Gnosis']",1.0272787714074623,2022-07-23
+52,Celo Euro,CEUR,celo-euro,peggedEUR,kucoin,,"['Celo', 'Solana', 'Polygon', 'Ethereum']",1.0076,2022-07-23
+53,sEUR,SEUR,seur,peggedEUR,curve,,"['Ethereum', 'Optimism']",1.0349099663204737,2022-07-23
+54,USN,USN,usn,peggedUSD,coingecko,127484598.17248888,"['Near', 'Aurora']",1.001,2022-07-23
+55,agEUR,AGEUR,ageur,peggedEUR,curve,,"['Ethereum', 'Polygon', 'Solana', 'Fantom', 'Fuse', 'zkSync', 'Aurora']",1.0147167026708581,2022-07-23
+56,Parallel,PAR,par-stablecoin,peggedEUR,dexscreener,,"['Ethereum', 'Polygon', 'Fantom']",1.01,2022-07-23
+57,Hedge USD,USH,hedge-usd,peggedUSD,birdeye,6081164.034500864,['Solana'],1.002057039382711,2022-07-23
+58,3USD,3USD,three-usd,peggedUSD,,1571777.8992662232,['Karura'],,2022-07-23
+59,SigmaUSD,SIGUSD,sigmausd,peggedUSD,,791887.68,['Ergo'],,2022-07-23

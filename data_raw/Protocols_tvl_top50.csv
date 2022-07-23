@@ -1,0 +1,51 @@
+id,name,address,symbol,chain,gecko_id,audits,cmcId,category,chains,oracles,slug,tvl,fdv,mcap,R_ExtractDate
+240,Polygon Bridge & Staking,0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0,MATIC,Polygon,matic-network,0,3890,Chain,['Polygon'],,polygon-bridge-&-staking,6617673655.38727,8520549720.0,6822237118.0,2022-07-23
+3,Curve,0xD533a949740bb3306d119CC777fa900bA034cd52,CRV,Multi-Chain,curve-dao-token,2,6538,Dexes,"['Ethereum', 'Polygon', 'Avalanche', 'Fantom', 'Arbitrum', 'xDai', 'Optimism', 'Moonbeam', 'Harmony', 'Aurora']",[],curve,6086603158.349465,4698928710.0,557604079.0,2022-07-23
+1,Uniswap,0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,UNI,Multi-Chain,uniswap,2,7083,Dexes,"['Ethereum', 'Polygon', 'Arbitrum', 'Optimism', 'Celo']",[],uniswap,5984210052.574859,6855556278.0,3129490029.0,2022-07-23
+118,MakerDAO,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,MKR,Ethereum,maker,2,1518,CDP,['Ethereum'],['Maker'],makerdao,5964577227.367437,951178929.0,852553292.0,2022-07-23
+2,WBTC,0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,WBTC,Ethereum,wrapped-bitcoin,2,3717,Bridge,['Ethereum'],[],wbtc,5343588375.605413,5343438880.0,5343438880.0,2022-07-23
+111,AAVE V2,0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9,AAVE,Multi-Chain,aave,2,7278,Lending,"['Ethereum', 'Polygon', 'Avalanche']",['Chainlink'],aave-v2,4280994407.3942947,1471340023.0,1284426305.0,2022-07-23
+319,Convex Finance,0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b,CVX,Ethereum,convex-finance,2,9903,Yield,['Ethereum'],,convex-finance,3765955766.4352717,775101774.0,509967302.0,2022-07-23
+494,JustLend,tron:TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9,JST,Tron,just,2,5488,Lending,['Tron'],['WINkLink'],justlend,3315838222.479239,306584957.0,275681193.0,2022-07-23
+194,PancakeSwap,bsc:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82,CAKE,Binance,pancakeswap-token,2,1165,Dexes,['Binance'],[],pancakeswap,3017402327.243208,2540472797.0,500934547.0,2022-07-23
+114,Compound,0xc00e94cb662c3520282e6f5717214004a7f26888,COMP,Ethereum,compound-governance-token,2,5692,Lending,['Ethereum'],['Chainlink'],compound,2003091198.17448,559998241.0,383939597.0,2022-07-23
+591,Multichain,0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3,MULTI,Multi-Chain,anyswap,2,5892,Bridge,"['Fantom', 'Ethereum', 'Avalanche', 'Arbitrum', 'Binance', 'Moonriver', 'Polygon', 'Moonbeam', 'OKExChain', 'Milkomeda', 'Boba', 'Optimism', 'Cronos', 'IoTeX', 'Harmony', 'xDai', 'Kucoin', 'Metis', 'Telos', 'Aurora', 'Syscoin', 'Bittorrent', 'Conflux', 'Heco', 'Shiden', 'Oasis', 'Velas', 'Fuse', 'Fusion', 'Evmos', 'RSK', 'EthereumClassic', 'Astar', 'DFK', 'Celo', 'Ronin']",,multichain,1951154365.803937,449483481.0,0.0,2022-07-23
+120,Instadapp,0x6f40d4a6237c257fff2db00fa0510deeecd303eb,INST,Ethereum,instadapp,,10508,Services,['Ethereum'],,instadapp,1923389087.9893053,,17608715.0,2022-07-23
+641,Arrakis Finance,,-,Multi-Chain,,2,,Yield,"['Ethereum', 'Polygon', 'Optimism']",,arrakis-finance,1680883801.0082953,,,2022-07-23
+116,Balancer,0xba100000625a3754423978a60c9317c58a424e3d,BAL,Multi-Chain,balancer,2,5728,Dexes,"['Ethereum', 'Polygon', 'Arbitrum']",,balancer,1439463825.1764088,537445794.0,195828743.0,2022-07-23
+694,JustCryptos,tron:TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9,JST,Tron,,0,,Bridge,['Tron'],,justcryptos,1326195340.0,,,2022-07-23
+359,Frax,0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0,FXS,Multi-Chain,frax-share,2,6953,Algo-Stables,"['Ethereum', 'Fantom']",['Chainlink'],frax,1260051152.9758015,671664468.0,446011578.0,2022-07-23
+691,JustStables,tron:TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT,USDJ,Tron,just-stablecoin,2,5446,Algo-Stables,['Tron'],['WINkLink'],juststables,1153933671.603543,,0.0,2022-07-23
+1599,AAVE V3,0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9,AAVE,Multi-Chain,,2,,Lending,"['Avalanche', 'Polygon', 'Arbitrum', 'Optimism', 'Fantom', 'Harmony']",[],aave-v3,1038498308.2421168,,,2022-07-23
+132,hBTC,0x0316EB71485b0Ab14103307bf65a021042c6d380,hBTC,Ethereum,huobi-btc,2,478,Bridge,['Ethereum'],,hbtc,880460174.4900361,881926169.0,881926169.0,2022-07-23
+690,SUNSwap,tron:TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S,SUN,Tron,,2,1116,Dexes,['Tron'],,sunswap,803886773.3052073,,,2022-07-23
+831,VVS Finance,cronos:0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03,VVS,Cronos,vvs-finance,2,14519,Dexes,['Cronos'],,vvs-finance,715420308.892083,673940489.0,140824908.0,2022-07-23
+612,Vires Finance,waves:DSbbhLsSTeDg5Lsiufk2Aneh3DjVqJuPr2M9uU1gwy5p,VIRES,Waves,vires-finance,2,12907,Lending,['Waves'],,vires-finance,648988352.9085103,386458523.0,21246859.0,2022-07-23
+119,SushiSwap,0x6b3595068778dd592e39a122f4f5a5cf09c90fe2,SUSHI,Multi-Chain,sushi,3,6758,Dexes,"['Ethereum', 'Polygon', 'Avalanche', 'xDai', 'Arbitrum', 'Harmony', 'Fantom', 'Celo', 'Moonriver', 'Binance', 'Fuse', 'Telos', 'OKExChain', 'Heco', 'Palm']",[],sushiswap,633845084.547397,334969201.0,258313852.0,2022-07-23
+212,Venus,bsc:0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63,XVS,Binance,venus,2,7288,Lending,['Binance'],['Chainlink'],venus,599188326.2295625,162778294.0,73349009.0,2022-07-23
+1303,Iron Bank,fantom:0x00a35FD824c717879BF370E70AC6868b95870Dfb,IB,Multi-Chain,iron-bank,2,17568,Lending,"['Ethereum', 'Avalanche', 'Fantom']",['Chainlink'],iron-bank,589460353.6194468,44509476.0,311075.0,2022-07-23
+113,Yearn Finance,0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e,YFI,Multi-Chain,yearn-finance,1,5864,Yield Aggregator,"['Ethereum', 'Fantom', 'Arbitrum']",,yearn-finance,588703687.8549441,241912467.0,208439040.0,2022-07-23
+144,dYdX,0x92d6c1e31e14520e676a687f0a93788b716beff5,DYDX,Ethereum,dydx,,11156,Derivatives,['Ethereum'],['Chainlink'],dydx,571608013.1227099,2203738534.0,247081171.0,2022-07-23
+636,Keep3r Network,0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44,KP3R,Ethereum,keep3rv1,2,7535,Derivatives,['Ethereum'],,keep3r-network,561764098.0,51817255.0,51817255.0,2022-07-23
+1217,Parallel DeFi Super App,,-,Parallel,,0,,Lending,['Parallel'],,parallel-defi-super-app,510608474.09369195,,,2022-07-23
+115,Synthetix,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,SNX,Multi-Chain,havven,2,2586,Derivatives,"['Ethereum', 'Optimism']",['Chainlink'],synthetix,503478862.5626499,861713474.0,697256886.0,2022-07-23
+1571,Stargate,0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6,STG,Multi-Chain,stargate-finance,2,18934,Cross Chain,"['Avalanche', 'Ethereum', 'Arbitrum', 'Polygon', 'Binance', 'Fantom', 'Optimism']",[],stargate,494287552.73280567,445464010.0,60268100.0,2022-07-23
+1541,Portal,,-,Multi-Chain,,2,,Bridge,"['Ethereum', 'Binance', 'Terra', 'Polygon', 'Solana', 'Avalanche', 'Aurora', 'Fantom', 'Celo', 'Karura', 'Oasis']",[],portal,489253109.54,,,2022-07-23
+345,Alpaca Finance,bsc:0x8f0528ce5ef7b51152a59745befdd91d97091d2f,ALPACA,Multi-Chain,alpaca-finance,2,8707,Yield,"['Binance', 'Fantom']",,alpaca-finance,487838502.86968946,46453273.0,38104019.0,2022-07-23
+431,SUN.io,tron:TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S,SUN,Tron,sun-token,2,10529,Dexes,['Tron'],,sun.io,487132136.11074907,,62072485.0,2022-07-23
+900,Rocket Pool,0xd33526068d116ce69f19a9ee46f0bd304f21a51f,RPL,Ethereum,rocket-pool,2,2943,Liquid Staking,['Ethereum'],,rocket-pool,430673533.8761225,317904830.0,285969542.0,2022-07-23
+347,Abracadabra,0x090185f2135308bad17527004364ebcc2d37e5f6,SPELL,Multi-Chain,spell-token,2,11289,CDP,"['Ethereum', 'Arbitrum', 'Avalanche', 'Fantom']",['Chainlink'],abracadabra,415419371.79569376,226076467.0,103676895.0,2022-07-23
+1166,DefiChain DEX,-,DFI,DefiChain,defichain,2,5804,Dexes,['DefiChain'],,defichain-dex,409398403.35580206,,615296041.0,2022-07-23
+306,Quickswap,polygon:0x831753dd7087cac61ab5644b308642cc1c33dc13,QUICK,Polygon,quick,3,8206,Dexes,['Polygon'],,quickswap,353284077.0675295,82956310.0,38242859.0,2022-07-23
+1796,Poly Network,,-,Multi-Chain,,2,,Bridge,"['Ethereum', 'Binance', 'NEO', 'Heco', 'Ontology', 'Neo3', 'Polygon', 'Arbitrum', 'Fantom', 'Optimism', 'OKExChain', 'Metis', 'Boba', 'Kava', 'xDai', 'Avalanche', 'Starcoin', 'Harmony', 'Carbon', 'CLV', 'Oasis', 'Pallete', 'Celo', 'Zilliqa', 'Hoo', 'Kucoin', 'Bytomsidechain']",[],poly-network,342414979.39,,,2022-07-23
+484,Marinade Finance,solana:MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey,MNDE,Solana,marinade,2,13803,Liquid Staking,['Solana'],,marinade-finance,326349367.90172607,47379233.0,6046514.0,2022-07-23
+340,Olympus DAO,0x383518188c0c6d7730d91b2c03a03c837814a899,OHM,Ethereum,olympus,2,9067,Reserve Currency,['Ethereum'],,olympus-dao,322610474.1033605,389852835.0,363434312.0,2022-07-23
+326,Beefy Finance,bsc:0xca3f508b8e4dd382ee878a314789373d80a5190a,BIFI,Multi-Chain,beefy-finance,2,7311,Yield Aggregator,"['Polygon', 'Fantom', 'Binance', 'Avalanche', 'Arbitrum', 'Optimism', 'Cronos', 'Moonbeam', 'Moonriver', 'Metis', 'Fuse', 'Aurora', 'Oasis', 'Harmony', 'Heco', 'Celo']",,beefy-finance,300321742.5689575,33736893.0,33736893.0,2022-07-23
+458,Solend,solana:SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp,SLND,Solana,solend,2,13524,Lending,['Solana'],['Pyth'],solend,294032244.2583656,69612216.0,14784817.0,2022-07-23
+951,Pando,,-,Mixin,,2,,Dexes,['Mixin'],,pando,279501714.11,,,2022-07-23
+1115,Tectonic,cronos:0xeAdf7c01DA7E93FdB5f16B0aa9ee85f978e89E95,TONIC,Cronos,tectonic,2,16430,Lending,['Cronos'],,tectonic,262531263.70277876,59382742.0,10662511.0,2022-07-23
+373,BiSwap,bsc:0x965f527d9159dce6288a2219db51fc6eef120dd1,BSW,Binance,biswap,2,10746,Dexes,['Binance'],,biswap,255085129.33403593,235698002.0,99846717.0,2022-07-23
+145,Serum,,SRM,Solana,serum,,6187,Dexes,['Solana'],,serum,251196635.55112144,10014947680.0,367423994.0,2022-07-23
+1918,Aura,0xc0c293ce456ff0ed870add98a0828dd4d2903dbf,AURA,Ethereum,aura-finance,2,,Yield,['Ethereum'],[],aura,249304199.000275,273617247.0,20407814.0,2022-07-23
+129,xDAI Stake Bridge,0x0Ae055097C6d159879521C384F1D2123D1f195e6,STAKE,Ethereum,xdai-stake,2,5601,Chain,['Ethereum'],,xdai-stake-bridge,246894983.58201268,39925093.0,8433978.0,2022-07-23
+467,Benqi Lending,avax:0x8729438eb15e2c8b576fcc6aecda6a148776c0f5,QI,Avalanche,benqi,2,9288,Lending,['Avalanche'],['Chainlink'],benqi-lending,243906237.41128877,112937483.0,41744134.0,2022-07-23

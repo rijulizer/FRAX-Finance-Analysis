@@ -1,0 +1,115 @@
+id,name,address,symbol,chain,gecko_id,audits,cmcId,category,chains,oracles,slug,tvl,fdv,mcap,R_ExtractDate
+340,Olympus DAO,0x383518188c0c6d7730d91b2c03a03c837814a899,OHM,Ethereum,olympus,2,9067,Reserve Currency,['Ethereum'],,olympus-dao,322610474.1033605,389852835.0,363434312.0,2022-07-23
+522,Wonderland,avax:0xb54f16fb19478766a268f172c9480f8da1a7c9c3,TIME,Multi-Chain,wonderland,0,11585,Reserve Currency,"['Avalanche', 'Ethereum']",,wonderland,148021708.40543833,15272124.0,14370484.0,2022-07-23
+875,Temple DAO,0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7,TEMPLE,Ethereum,temple,0,,Reserve Currency,['Ethereum'],,temple-dao,51674601.612479225,167283792.0,69219155.0,2022-07-23
+781,Klima DAO,polygon:0x4e78011ce80ee02d2c3e649fb657e45898257815,KLIMA,Polygon,klima-dao,1,12873,Reserve Currency,['Polygon'],,klima-dao,39229402.91408315,,26160534.0,2022-07-23
+758,Spartacus,fantom:0x5602df4a94eb6c680190accfa2a475621e0ddbdc,SPA,Fantom,spartacus,0,13748,Reserve Currency,['Fantom'],,spartacus,29895272.455895923,24000520.0,0.0,2022-07-23
+961,Fantohm,0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286,FHM,Multi-Chain,fantohm,2,14063,Reserve Currency,"['Fantom', 'Ethereum', 'Moonriver', 'Binance', 'Boba']",['DIA'],fantohm,21437873.7469281,4431353.0,3033176.0,2022-07-23
+964,Nemesis DAO,bsc:0x8AC9DC3358A2dB19fDd57f433ff45d1fc357aFb3,NMS,Binance,nemesis-dao,0,14492,Reserve Currency,['Binance'],,nemesis-dao,4972157.849791542,,190786.0,2022-07-23
+1505,Floor Dao,0xf59257E961883636290411c11ec5Ae622d19455e,FLOOR,Ethereum,floordao,0,18440,Reserve Currency,['Ethereum'],[],floor-dao,4615246.980098877,6425248.0,5722394.0,2022-07-23
+1596,The Idols,0x9416ba76e88d873050a06e5956a3ebf10386b863,VIRTUE,Ethereum,,2,,Reserve Currency,['Ethereum'],[],the-idols,4181787.012874801,,,2022-07-23
+804,Gyro,bsc:0x1b239abe619e74232c827fbe5e49a4c072bd869d,GYRO,Binance,gyro,0,12703,Reserve Currency,['Binance'],,gyro,1811843.652815635,2508845.0,2508845.0,2022-07-23
+1377,Maia DAO,metis:0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD,MAIA,Metis,maia,0,,Reserve Currency,['Metis'],[],maia-dao,1642286.5524570676,96389.0,0.0,2022-07-23
+1206,WagmiDAO,harmony:0x8750f5651af49950b5419928fecefca7c82141e3,GMI,Harmony,wagmidao,2,,Reserve Currency,['Harmony'],,wagmidao,1535828.5428214702,18791285.0,2002513.0,2022-07-23
+1593,Sphere Finance,polygon:0x8D546026012bF75073d8A586f24A5d5ff75b9716,SPHERE,Polygon,sphere-finance,0,18945,Reserve Currency,['Polygon'],[],sphere-finance,1508420.5119580422,,0.0,2022-07-23
+1227,Empyrean DAO,aurora:0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1,EMPYR,Aurora,empyrean,0,,Reserve Currency,['Aurora'],,empyrean-dao,1315370.7689462095,250632.0,0.0,2022-07-23
+824,Euphoria,harmony:0x0dc78c79b4eb080ead5c1d16559225a46b580694,WAGMI,Harmony,euphoria-2,0,14153,Reserve Currency,['Harmony'],,euphoria,1014563.8948945221,,3790665.0,2022-07-23
+934,InvictusDAO,solana:inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY,IN,Solana,invictus,0,14278,Reserve Currency,['Solana'],,invictusdao,976541.3540472625,,10246882.0,2022-07-23
+1050,LeagueDAO,0x7b39917f9562c8bc83c7a6c2950ff571375d505d,LEAG,Ethereum,leaguedao-governance-token,0,14131,Reserve Currency,['Ethereum'],,leaguedao,675257.3157306806,2145397.0,909014.0,2022-07-23
+1098,Templar DAO,bsc:0x19e6bfc1a6e4b042fb20531244d47e252445df01,TEM,Multi-Chain,templardao,0,15288,Reserve Currency,"['Binance', 'Moonriver', 'Harmony']",,templar-dao,639556.46074399,,361869.0,2022-07-23
+939,R U Generous,avax:0xb8ef3a190b68175000b74b4160d325fd5024760e,RUG,Avalanche,r-u-generous,0,14971,Reserve Currency,['Avalanche'],,r-u-generous,593365.5661382859,,0.0,2022-07-23
+973,XEUS,bsc:0x4e141769366634d9c4e498257fa7ec204d22b634,XEUS,Binance,xeus,0,13976,Reserve Currency,['Binance'],,xeus,562321.2118587552,,767.68,2022-07-23
+1478,GTON Capital,fantom:0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4,GTON,Fantom,gton-capital,2,10006,Reserve Currency,['Fantom'],['DIA'],gton-capital,459063.610109755,,3258465.0,2022-07-23
+1231,Vesq,polygon:0x29f1e986fca02b7e54138c04c4f503dddd250558,VESQ,Polygon,vesq,2,16737,Reserve Currency,['Polygon'],,vesq,417581.34507202194,,0.0,2022-07-23
+1015,Atlas USV,polygon:0xAC63686230f64BDEAF086Fe6764085453ab3023F,USV,Polygon,atlas-usv,0,,Reserve Currency,['Polygon'],,atlas-usv,285655.34635356074,196228337.0,17849594.0,2022-07-23
+1013,Stargate Finance,bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a,SGT,Binance,,0,,Reserve Currency,['Binance'],,stargate-finance,216180.49394400298,,,2022-07-23
+1238,Minotaur Money,cronos:0x3A1138075bd97a33F23A87824b811146FA44288E,MINO,Cronos,minotaur,0,,Reserve Currency,['Cronos'],,minotaur-money,215376.25886976987,,0.0,2022-07-23
+994,Life DAO,avax:0x5684a087c739a2e845f4aaaabf4fbd261edc2be8,LF,Avalanche,life-dao,0,15289,Reserve Currency,['Avalanche'],,life-dao,212547.1456802193,35277.0,0.0,2022-07-23
+1529,Gamblefi,cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc,BETIFY,Cronos,betify,0,,Reserve Currency,['Cronos'],[],gamblefi,194719.95616155985,,0.0,2022-07-23
+1271,Immortal,celo:0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE,IMMO,Celo,immortaldao,2,,Reserve Currency,['Celo'],,immortal,190093.05097166047,27175.0,0.0,2022-07-23
+993,O2 DAO,avax:0xaa2439dbad718c9329a5893a51a708c015f76346,OTWO,Avalanche,,0,,Reserve Currency,['Avalanche'],,o2-dao,186484.77216865128,,,2022-07-23
+928,Fortress,avax:0xf6d46849db378ae01d93732585bec2c4480d1fd5,FORT,Avalanche,fortressdao,0,14861,Reserve Currency,['Avalanche'],,fortress,144395.64844280586,,746374.0,2022-07-23
+1338,Warp,polygon:0x3F46a70adB395cddb81FF9bFE3B62aDae1B44816,WARP,Polygon,warp-bond,0,17651,Reserve Currency,['Polygon'],,warp,130661.19970823136,,0.0,2022-07-23
+999,Luxor Money,fantom:0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b,LUX,Fantom,luxor,0,,Reserve Currency,['Fantom'],['Chainlink'],luxor-money,124507.74489687034,5361535.0,604610.0,2022-07-23
+1426,MiniPanther DAO,fantom:0x3264810174f577F82DDD4FD08818F368AC363505,MP,Fantom,minipanther,2,,Reserve Currency,['Fantom'],[],minipanther-dao,92608.25701183376,,0.0,2022-07-23
+1047,UnusDao,bsc:0xb91ec4f9d7d12a1ac145a7ae3b78afb45856c9c8,UDO,Binance,unus-dao,0,15196,Reserve Currency,['Binance'],,unusdao,89876.96537594477,18377.74,0.0,2022-07-23
+927,Pidao Finance,bsc:0x1215ed20aa507578ca352e195016f289e7a17f3a,PID,Binance,pidao,2,14163,Reserve Currency,['Binance'],,pidao-finance,88833.09066418029,,0.0,2022-07-23
+1424,Volta DAO,fantom:0x4c9993c7107495020c2ce9a13d11839f48ecd2e6,VOLTa,Multi-Chain,,0,,Reserve Currency,"['Fantom', 'Avalanche']",[],volta-dao,70776.9755325092,,,2022-07-23
+1730,Goblins Cash,smartbch:0x56381cB87C8990971f3e9d948939e1a95eA113a3,GOB,smartBCH,,0,,Reserve Currency,['smartBCH'],[],goblins-cash,57344.03984913978,,,2022-07-23
+889,8ightDAO,harmony:0xcda2fdeee5c382e401c04dc929e53ababf6c8109,EIGHT,Harmony,8ight-finance,0,14970,Reserve Currency,['Harmony'],,8ightdao,43952.45001047492,25390.0,0.0,2022-07-23
+1318,Cesta Finance,,-,Avalanche,,2,,Reserve Currency,['Avalanche'],,cesta-finance,42344.00229255778,,,2022-07-23
+1721,KronosDAO,bsc:0xbeC68a941feCC79E57762e258fd1490F29235D75,KRONOS,Binance,,0,,Reserve Currency,['Binance'],[],kronosdao,40554.844860385434,,,2022-07-23
+975,Omicron,arbirtum:0x86b3353387f560295a8fa7902679735e5f076bd5,OMIC,Arbitrum,omicron,0,14095,Reserve Currency,['Arbitrum'],,omicron,40369.31489485271,1770055.0,0.0,2022-07-23
+974,TaiChi,bsc:0xe49bfc53a195a62d78a941a1967d7b0f83a47c14,TAC,Binance,taichi,0,13743,Reserve Currency,['Binance'],,taichi,33551.003445464536,,26931.0,2022-07-23
+1067,Dios Finance,bsc:0x08eEcF5d03bDA3dF2467F6AF46b160c24D931DE7,DIOS,Binance,dios-finance,0,15989,Reserve Currency,['Binance'],,dios-finance,31627.42883415996,34195.0,28344.0,2022-07-23
+984,GalaxyGoogle DAO,avax:0xf2f7ce610a091b94d41d69f4ff1129434a82e2f0,GG,Multi-Chain,galaxygoogle-dao,0,15268,Reserve Currency,"['Binance', 'Avalanche']",,galaxygoogle-dao,20419.70903888218,241.79,0.0,2022-07-23
+856,Fortune DAO,cronos:0xcA558149225Fb386B9c26716e8C35a650C74d35e,FORT,Cronos,,0,15742,Reserve Currency,['Cronos'],,fortune-dao,16283.038446485885,,,2022-07-23
+966,CerberusDAO,0x8a14897ea5f668f36671678593fae44ae23b39fb,3DOG,Ethereum,cerburus,0,15249,Reserve Currency,['Ethereum'],,cerberusdao,7086.0002602282375,7211971.0,7211971.0,2022-07-23
+1223,TiPiDao,bsc:0xd0253dbe5606c9fa01db67eb10be5c3675c2b117,TPD,Binance,,0,,Reserve Currency,['Binance'],,tipidao,6750.310181630496,,,2022-07-23
+1309,Gaia DAO,avax:0x9f6aedca032b1092e08b848fc9d6f29139370837,GAIA,Avalanche,gaia-dao,0,,Reserve Currency,['Avalanche'],,gaia-dao,5315.917932614583,,0.0,2022-07-23
+1366,Hotfriescoin,bsc:0x849741B79bc1618b46CF9ec600E94E771DEde601,HFC,Binance,,0,,Reserve Currency,['Binance'],,hotfriescoin,5134.476227408949,,,2022-07-23
+1105,Bourbon DAO,bsc:0xce1ad4e2810e413e2e3684decc58a0bd01c907d9,WHISKEY,Binance,,0,,Reserve Currency,['Binance'],,bourbon-dao,2339.3824511066864,,,2022-07-23
+730,Exodia,fantom:0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7,EXOD,Fantom,exodia,0,,Reserve Currency,['Fantom'],,exodia,1648.486261670424,46990.0,1930.12,2022-07-23
+1222,Photon Protocol,bsc:0x2F1305F0619ADa14688A4291953bd7d284f9C2a5,PHOTON,Binance,,0,,Reserve Currency,['Binance'],,photon-protocol,1360.3333623458395,,,2022-07-23
+1075,SpiritDAO,avax:0xa72eab7327e48bde0ff873eaf1d4fecf6036504f,GHOST,Avalanche,spiritdao-ghost,0,16396,Reserve Currency,['Avalanche'],,spiritdao,1334.824430383416,55.25,0.0,2022-07-23
+945,Jade Protocol,bsc:0x7ad7242A99F21aa543F9650A56D141C57e4F6081,JADE,Binance,jade-protocol,0,14938,Reserve Currency,['Binance'],,jade-protocol,1100.7809942474037,,19317986.0,2022-07-23
+1218,Sierra,avax:0x862D2E466C28dB7961E953083854e19481478842,SRA,Avalanche,sierra,0,17053,Reserve Currency,['Avalanche'],,sierra,841.7257819927969,50.55,0.0,2022-07-23
+1114,PirateDAO,avax:0x30ff717fc266f2dcb3adc1af4043f8c517491e66,JOLLY,Avalanche,piratedao,0,16702,Reserve Currency,['Avalanche'],,piratedao,807.8802926080376,1607474821743.0,0.0,2022-07-23
+1112,Asgard Dao,bsc:0xa5593837af2b99021fe657c80d70d2365F5CfD38,ASGARD,Binance,asgard-dao,0,16229,Reserve Currency,['Binance'],,asgard-dao,423.23086763026276,,0.0,2022-07-23
+795,SenpaiSwap,,-,Boba,,0,,Reserve Currency,['Boba'],,senpaiswap,381.0512732275837,,,2022-07-23
+965,MoonDao,moonriver:0x761cb807bfbf14a4f4ba980f29f43f009f6a18c0,MD,Moonriver,moondao-2,0,14927,Reserve Currency,['Moonriver'],,moondao,77.04874301427479,5668693.0,0.0,2022-07-23
+1148,Amogus DAO,avax:0x43f673dEDE1A30399E7b9b600AD78193dB00D895,SUS,Avalanche,,0,,Reserve Currency,['Avalanche'],,amogus-dao,44.89826544046842,,,2022-07-23
+1051,Vortex DAO,avax:0x353af195c0d82820c59427BFbD318A49971AAe1a,SPACE,Avalanche,vortex-dao,0,16142,Reserve Currency,['Avalanche'],,vortex-dao,41.973434767408996,1462.33,0.0,2022-07-23
+977,Tornadao,avax:0xb80323c7aa915cb960b19b5cca1d88a2132f7bd1,NADO,Avalanche,tornadao,0,,Reserve Currency,['Avalanche'],,tornadao,18.590720150833278,2599.6,0.0,2022-07-23
+1011,Papa DAO,avax:0x70b33ebC5544C12691d055b49762D0F8365d99Fe,PAPA,Avalanche,papa-dao,0,15794,Reserve Currency,['Avalanche'],,papa-dao,17.650820667227478,3204.99,0.0,2022-07-23
+1014,TempoDAO,avax:0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf,TEMPO,Avalanche,tempo-dao,0,15379,Reserve Currency,['Avalanche'],,tempodao,17.189241000907288,517.93,0.0,2022-07-23
+1284,Paladin DAO,bsc:0xb4da413d7643000a84c5b62bfb1bf2077604b165,PAL,Binance,paladin-dao,0,17563,Reserve Currency,['Binance'],,paladin-dao,5.6692505406388225,,0.0,2022-07-23
+1113,Mama DAO,polygon:0xA9a779aeA33b6f40CfC78A29Cf56Fc7e6fb329AB,MAMA,Polygon,mama-dao,0,16844,Reserve Currency,['Polygon'],,mama-dao,1.74411441467293,,0.0,2022-07-23
+1228,SashimiDAO,avax:0xb88e3edb378ed7ddef10b86962d97fa0b8defb6d,SASHI,Avalanche,,0,,Reserve Currency,['Avalanche'],,sashimidao,1.4447425873948883,,,2022-07-23
+930,Maximizer,avax:0x7C08413cbf02202a1c13643dB173f2694e0F73f0,MAXI,Avalanche,maximizer,0,15243,Reserve Currency,['Avalanche'],,maximizer,1.154122324209529,,5019746.0,2022-07-23
+1141,Avalps,avax:0xf481Eec738C46F675e077ee966A680a19210Af11,BLANC,Avalanche,blanc,0,16337,Reserve Currency,['Avalanche'],,avalps,0.8387905125807168,182488.0,0.0,2022-07-23
+1009,CheeseDAO,harmony:0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d,CHEEZ,Harmony,cheesedao,0,,Reserve Currency,['Harmony'],,cheesedao,0.5367448517429307,,0.0,2022-07-23
+1164,DeepSeaDAO,avax:0xb195Af20a0fEc7E2C95b22a1c5de86a2389E40d5,SEA,Avalanche,,0,,Reserve Currency,['Avalanche'],,deepseadao,0.44656669990524794,,,2022-07-23
+1212,SamoDAO,bsc:0xcd7CBc46d083A245B45E22Cb4bE2c569947Ce896,samoDAO,Binance,,0,,Reserve Currency,['Binance'],,samodao,0.4198900153671847,,,2022-07-23
+955,Houses of Rome,moonriver:0x4a436073552044d5f2f49b176853ad3ad473d9d6,ROME,Moonriver,rome,0,15398,Reserve Currency,['Moonriver'],,houses-of-rome,0.34869590377296983,,7151637.0,2022-07-23
+859,Snowdog,avax:0xde9e52f1838951e4d2bb6c59723b003c353979b6,SDOG,Avalanche,snowdog,0,14748,Reserve Currency,['Avalanche'],,snowdog,0.2913882063783568,73399.0,0.0,2022-07-23
+909,Kronos DAO,klaytn:0xD676e57Ca65b827fEb112AD81Ff738E7B6c1048d,KRNO,Klaytn,kronos-dao,0,15546,Reserve Currency,['Klaytn'],,kronos-dao,0.16356763403525443,,,2022-07-23
+1165,Swing DAO,avax:0x19fbfa5987efecceff41b190759a9d883a4bea21,GNIWS,Avalanche,,0,,Reserve Currency,['Avalanche'],,swing-dao,0.02067598485626754,,,2022-07-23
+891,OneDAO Finance,harmony:0x947394294F75D7502977AC6813FD99f77C2931ec,ODAO,Harmony,onedao-finance,0,,Reserve Currency,['Harmony'],,onedao-finance,0.002422573893491161,,0.0,2022-07-23
+1100,ValhallaDAO,avax:0x84506992349429dac867b2168843ffca263af6e8,VALDAO,Avalanche,,0,,Reserve Currency,['Avalanche'],,valhalladao,1.7451393657178204e-05,,,2022-07-23
+1010,Ice DAO,avax:0x9235b893a3e61a14b2d02a91ec1394fbf411689e,ICE,Avalanche,ice-dao,0,15828,Reserve Currency,['Avalanche'],,ice-dao,3.5133999999999997e-07,,0.0,2022-07-23
+1310,ZeroShift,avax:0xf436Ea4C4f2e49F0679895aEAE39dab698350eAa,ZRST,Avalanche,,0,,Reserve Currency,['Avalanche'],,zeroshift,1.6215734307926002e-11,,,2022-07-23
+933,Nidhi-Dao,Polygon:0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E,GURU,Polygon,nidhi-dao,0,15074,Reserve Currency,['Polygon'],,nidhi-dao,5.26976807105e-13,,779481.0,2022-07-23
+858,Piggybank DAO,avax:0x0E75CDb914DdCcA683357dD94d26Caa39BC14B16,PB,Avalanche,piggy-bank,2,14780,Reserve Currency,['Avalanche'],,piggybank-dao,6.67651296e-16,29641.0,0.0,2022-07-23
+802,SquidDao,0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2,SQUID,Ethereum,squid,0,13620,Reserve Currency,['Ethereum'],,squiddao,0.0,,207076.0,2022-07-23
+805,Snowbank,avax:0x7d1232b90d3f809a54eeaeebc639c62df8a8942f,SB,Avalanche,snowbank,0,14027,Reserve Currency,['Avalanche'],,snowbank,0.0,,36185055.0,2022-07-23
+853,AxeDAO,0x30AC8317DfB0ab4263CD8dB1C4F10749911B126C,AXE,Ethereum,axedao,2,14609,Reserve Currency,['Ethereum'],,axedao,0.0,2203684.0,0.0,2022-07-23
+866,Reverse,harmony:0xed0b4b0f0e2c17646682fc98ace09feb99af3ade,RVRS,Harmony,reverse-protocol,2,null,Reserve Currency,['Harmony'],,reverse,0.0,8500124.0,0.0,2022-07-23
+881,SafeOHM,bsc:0xBDaa094a95e452c6bA175cE9EdfeFBa04e6a51Ac,SOHM,Binance,safe-ohm,0,14432,Reserve Currency,['Binance'],,safeohm,0.0,,0.0,2022-07-23
+926,Metaversepro,bsc:0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83,META,Binance,metaversepro,0,14075,Reserve Currency,['Binance'],,metaversepro,0.0,,69679.0,2022-07-23
+929,RaDao,bsc:0xcc238200cFfdA7A5E2810086c26d5334e64F1155,RA,Binance,,0,15358,Reserve Currency,['Binance'],,radao,0.0,,,2022-07-23
+949,Lobis,eth:0xdec41db0c33f3f6f3cb615449c311ba22d418a8d,LOBI,Ethereum,lobis,0,15093,Reserve Currency,['Ethereum'],,lobis,0.0,438926.0,0.0,2022-07-23
+982,VikingsFinance,avax:0xE0474c15BC7f8213eE5bfB42f9E68B2d6BE2e136,VAL,Avalanche,vikings-finance,0,15611,Reserve Currency,['Avalanche'],,vikingsfinance,0.0,666608577607220.0,0.0,2022-07-23
+991,MidasDAO,avax:0x39912d83acb4a373321387300f4fbe88aa5d6f14,CROWN,Avalanche,midasdao,0,15606,Reserve Currency,['Avalanche'],,midasdao,0.0,,0.0,2022-07-23
+1001,Giza DAO,fantom:0x3389492f36642f27F7bF4a7749fb3FC2c8fbB7EE,GIZA,Fantom,gizadao,0,15468,Reserve Currency,['Fantom'],,giza-dao,0.0,2491961.0,0.0,2022-07-23
+1012,Pumpkin DAO,fantom:0x8eDDA0107D661E82df660DBa01Ff1D40FA17B70c,PUMP,Fantom,,0,,Reserve Currency,['Fantom'],,pumpkin-dao,0.0,,,2022-07-23
+1037,RagnarokDAO,avax:0x46fCCf447f74ec97a521615fcE111118597071f7,RGK,Avalanche,ragnarokdao,0,16099,Reserve Currency,['Avalanche'],,ragnarokdao,0.0,4111593.0,0.0,2022-07-23
+1061,CakeDAO,avax:0x4Eb49A2F9A79053866faE806fAc95A3eF5B92C05,CAKE,Avalanche,cake,0,16149,Reserve Currency,['Avalanche'],,cakedao,0.0,,0.0,2022-07-23
+1090,Spicy DAO,avax:0x6007fca39b5398feac4d06d75435a564a086bab8,SPC,Avalanche,,0,,Reserve Currency,['Avalanche'],,spicy-dao,0.0,,,2022-07-23
+1091,ZodiacDAO,bsc:0x98051143830fa99848e7059e97acb03b3cc62403,ZD,Binance,zodiacdao,2,16450,Reserve Currency,['Binance'],,zodiacdao,0.0,,0.0,2022-07-23
+1099,Ara Finance,avax:0x2ced20fdfcbe72c27a607d0c9ab1c9ada598c60f,ARA,Avalanche,,0,,Reserve Currency,['Avalanche'],,ara-finance,0.0,,,2022-07-23
+1101,SecureDAO,fantom:0x8183C18887aC4386CE09Dbdf5dF7c398DAcB2B5a,SCR,Fantom,secure,0,17085,Reserve Currency,['Fantom'],,securedao,0.0,,0.0,2022-07-23
+1103,SnowCatDAO,avax:0x2558b8FBa8f678Fd3029C927CD3780f5d3C266C7,SCAT,Avalanche,,0,,Reserve Currency,['Avalanche'],,snowcatdao,0.0,,,2022-07-23
+1104,AgarthaDAO,avax:0xa5b0f5ef809fd04c9d4320211c711cb34ef812dd,CLAVIS,Avalanche,clavis,0,16328,Reserve Currency,['Avalanche'],,agarthadao,0.0,,0.0,2022-07-23
+1170,MetaReserve,bsc:0x000c6322Df760155bBe4F20F2EDD8F4Cd35733A6,POWER,Binance,metareserve,0,16633,Reserve Currency,['Binance'],,metareserve,0.0,9168.55,0.0,2022-07-23
+1175,Xenophon,bsc:0x3e29633846E8b857B7f6d7f293F895186804264b,XPH,Binance,,0,,Reserve Currency,['Binance'],,xenophon,0.0,,,2022-07-23
+1177,Whale Loans,bsc:0x453939C0270e9405876C7f047aDE3932FD2d7a51,HUMP,Binance,humpback,2,16812,Reserve Currency,['Binance'],['Chainlink'],whale-loans,0.0,35000.0,0.0,2022-07-23
+1214,Karma DAO,avax:0x5ccff6723f592c223e7b31c6872ba999a028653f,KARMA,Avalanche,karma-dao,0,5935,Reserve Currency,['Avalanche'],,karma-dao,0.0,63236.0,35542.0,2022-07-23
+1219,Trapeza Protocol,bsc:0x414a36a4b79Ee1D4b454AB798E4179ffC00b1641,FIDL,Binance,trapeza-protocol,0,17625,Reserve Currency,['Binance'],,trapeza-protocol,0.0,,0.0,2022-07-23
+1251,Kandyland Finance,avax:0x37ded665a387a6f170fb60376b3057f09df6c0ea,KANDY,Avalanche,kandy,0,17256,Reserve Currency,['Avalanche'],,kandyland-finance,0.0,,0.0,2022-07-23
+1313,NoahArkDAO,avax:0x61a47034276eb993e1c5e67bf1375ad0a48f10f6,NRK,Avalanche,noahark,0,17649,Reserve Currency,['Avalanche'],,noaharkdao,0.0,802306346.0,0.0,2022-07-23
+1362,Hexal,bsc:0x57612d60b415ad812da9a7cf5672084796a4ab81,HXL,Binance,,0,,Reserve Currency,['Binance'],,hexal,0.0,,,2022-07-23
+1516,RHEA DAO,klaytn:0x0758fB651282581F86316514E8F5021493E9eD83,RHEA,Klaytn,,0,,Reserve Currency,['Klaytn'],[],rhea-dao,0.0,,,2022-07-23
+1526,Metavault DAO,fantom:0x27746007e821aeec6f9c65cbfda04870c236346c,MVD,Fantom,metavault,0,,Reserve Currency,['Fantom'],[],metavault-dao,0.0,,437017.0,2022-07-23
+1625,DarumaDAO,godwoken:0x81E60A955DC8c4d25535C358fcFE979351d102B5,DRM,Godwoken,,0,,Reserve Currency,['Godwoken'],['TWAP'],darumadao,0.0,,,2022-07-23
+1686,Ignite Finance,klaytn:0x7cd4a64946e91989a21548362c18052704fe5ed6,TINDER,Klaytn,,0,,Reserve Currency,['Klaytn'],[],ignite-finance,0.0,,,2022-07-23
