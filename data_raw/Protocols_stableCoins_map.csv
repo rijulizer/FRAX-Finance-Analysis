@@ -1,0 +1,42 @@
+id,name,name_hist_tvl,address,symbol,chain,gecko_id,audits,cmcId,category,chains,oracles,slug,tvl,fdv,mcap,R_ExtractDate
+118,MakerDAO,MakerDAO,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,MKR,Ethereum,maker,2,1518,CDP,['Ethereum'],['Maker'],makerdao,8540818992,1040434611,932554250,03-08-2022
+494,JustLend,JustLend,tron:TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9,JST,Tron,just,2,5488,Lending,['Tron'],['WINkLink'],justlend,3373019002,301653198,271246555,03-08-2022
+694,JustCryptos,JustCryptos,tron:TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9,JST,Tron,,0,,Bridge,['Tron'],,justcryptos,1368314078,,,03-08-2022
+359,Frax,Frax,0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0,FXS,Multi-Chain,frax-share,2,6953,Algo-Stables,"['Ethereum', 'Fantom']",['Chainlink'],frax,1205202510,699938203,498387125,03-08-2022
+691,JustStables,JustStables,tron:TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT,USDJ,Tron,just-stablecoin,2,5446,Algo-Stables,['Tron'],['WINkLink'],juststables,1184827554,,0,03-08-2022
+212,Venus,Venus,bsc:0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63,XVS,Binance,venus,2,7288,Lending,['Binance'],['Chainlink'],venus,701785757,198076506,89712116,03-08-2022
+115,Synthetix,Synthetix,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,SNX,Multi-Chain,havven,2,2586,Derivatives,"['Ethereum', 'Optimism']",['Chainlink'],synthetix,642296143,1118926935,903189241,03-08-2022
+270,Liquity,Liquity,0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D,LQTY,Ethereum,liquity,2,7429,CDP,['Ethereum'],['Chainlink'],liquity,549199472.1,90289675,72249306,03-08-2022
+347,Abracadabra,Abracadabra,0x090185f2135308bad17527004364ebcc2d37e5f6,SPELL,Multi-Chain,spell-token,2,11289,CDP,"['Ethereum', 'Arbitrum', 'Avalanche', 'Fantom']",['Chainlink'],abracadabra,436319744.2,230436914,106441070,03-08-2022
+467,Benqi Lending,benqi,avax:0x8729438eb15e2c8b576fcc6aecda6a148776c0f5,QI,Avalanche,benqi,2,9288,Lending,['Avalanche'],['Chainlink'],benqi-lending,260740611,121357249,45126344,03-08-2022
+1879,Acala LCDOT,Acala LCDOT,acala:-,ACA,Acala,,2,,Liquid Staking,['Acala'],[],acala-lcdot,194528139,,,03-08-2022
+204,Alchemix,Alchemix,0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF,ALCX,Multi-Chain,alchemix,2,8613,Synthetics,"['Ethereum', 'Fantom']",[],alchemix,132747321.7,84367895,52652209,03-08-2022
+611,Neutrino,Neutrino,waves:6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g,NSBT,Waves,neutrino-system-base-token,2,7320,Algo-Stables,['Waves'],,neutrino,129339933.7,,48728334,03-08-2022
+1087,Algofi,Algofi,,-,Algorand,,2,,Lending,['Algorand'],['TWAP'],algofi,87754945.17,,,03-08-2022
+1662,Yeti Finance,yeti-finance,avax:0x77777777777d4554c39223C354A05825b2E8Faa3,YETI,Avalanche,yeti-finance,2,19576,CDP,['Avalanche'],['Chainlink'],yeti-finance,85976701.67,10452215,979939,03-08-2022
+864,Wrapped BNB,Wrapped-BNB,kava:-,BNB,Binance,,0,,Bridge,['Binance'],,wrapped-bnb,82117950.83,,,03-08-2022
+449,QiDao,QiDao,polygon:0x580a84c73811e1839f75d86d75d88cca0c241ff4,QI,Multi-Chain,qi-dao,2,10237,CDP,"['Polygon', 'Fantom', 'Optimism', 'Avalanche', 'Arbitrum', 'Binance', 'xDai', 'Metis', 'Harmony', 'Moonriver']",,qidao,80986190.33,50451916,21159589,03-08-2022
+255,Fei Protocol,fei-protocol,0x956f47f50a910163d8bf957cf5846d573e7f87ca,FEI,Ethereum,fei-protocol,2,8642,Algo-Stables,['Ethereum'],['Chainlink'],fei-protocol,61156223.62,524970827,521800599,03-08-2022
+1849,Acala Liquid-Staking,Acala Liquid-Staking,acala:-,ACA,Acala,,2,,Liquid Staking,['Acala'],[],acala-liquid-staking,58094741.3,,,03-08-2022
+427,Origin Dollar,origin-dollar,0x2a8e1e676ec238d8a992307b495b45b3feaa5e86,OUSD,Ethereum,origin-dollar,2,7189,Algo-Stables,['Ethereum'],,origin-dollar,49924186.95,49756017,49756017,03-08-2022
+125,mStable,mStable,0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2,MTA,Multi-Chain,meta,2,5748,CDP,"['Ethereum', 'Polygon']",,mstable,49609057.12,15328561,7657111,03-08-2022
+331,MoneyOnChain,MoneyOnChain,rsk:0x9AC7fE28967B30E3A4e6e03286d715b42B453D10,MOC,RSK,,2,,Staking,['RSK'],,moneyonchain,37241441.86,,,03-08-2022
+123,dForce,dForce,0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0,DF,Multi-Chain,dforce-token,2,4758,Lending,"['Binance', 'Arbitrum', 'Ethereum', 'Polygon', 'Optimism', 'Kava', 'Avalanche']","['Chainlink', 'Band']",dforce,35862077.23,44454575,18940484,03-08-2022
+358,Parrot Protocol,parrot-protocol,solana:PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44,PRT,Solana,parrot-protocol,1,11935,CDP,['Solana'],,parrot-protocol,35092313.82,15662839,0,03-08-2022
+758,Spartacus,Spartacus,fantom:0x5602df4a94eb6c680190accfa2a475621e0ddbdc,SPA,Fantom,spartacus,0,13748,Reserve Currency,['Fantom'],,spartacus,34573117.43,36180983,0,03-08-2022
+832,Hector Network,hector-network,fantom:0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0,HEC,Multi-Chain,hector-dao,2,13881,Dexes,"['Fantom', 'Ethereum', 'Binance']",,hector-network,31471305.61,,53296889,03-08-2022
+626,Reserve,Reserve,0x8762db106b2c2a0bccb3a80d1ed41273552616e8,RSR,Ethereum,reserve-rights-token,2,3964,CDP,['Ethereum'],,reserve,28279145.28,669842930,283359126,03-08-2022
+251,Mimo Defi,Mimo,0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc,MIMO,Multi-Chain,mimo-parallel-governance-token,2,10831,CDP,"['Ethereum', 'Polygon', 'Fantom']",,mimo-defi,23273139.04,,9998103,03-08-2022
+961,Fantohm,Fantohm,0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286,FHM,Multi-Chain,fantohm,2,14063,Reserve Currency,"['Fantom', 'Ethereum', 'Moonriver', 'Binance', 'Boba']",['DIA'],fantohm,21086746.96,4532004,3120064,03-08-2022
+338,Inverse Finance,inverse-finance,0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68,INV,Ethereum,inverse-finance,0,8720,CDP,['Ethereum'],,inverse-finance,13170307.29,,18901617,03-08-2022
+1847,Acala Swap,Acala Swap,acala:-,ACA,Acala,,2,,Dexes,['Acala'],[],acala-swap,9494883.103,,,03-08-2022
+1916,Hedge,Hedge,solana:5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy,HDG,Solana,hedge-protocol,2,20239,CDP,['Solana'],"['Pyth', 'Chainlink', 'Switchboard']",hedge,8429574.116,,0,03-08-2022
+1708,AstridDAO,AstridDAO,astar:0x5271D85CE4241b310C0B34b7C2f1f036686A6d7C,ATID,Astar,,2,,CDP,['Astar'],['DIA'],astriddao,8203670.297,,,03-08-2022
+166,TrueFi,TrueFi,0x4c19596f5aaff459fa38b0f7ed92f11ae6543784,TRU,Ethereum,truefi,2,7725,RWA,['Ethereum'],,truefi,5318452.495,132494133,70670971,03-08-2022
+1023,USD+,USD+,polygon:0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f,USD+,Polygon,usd,1,20317,CDP,['Polygon'],,usd+,3760643.273,,3743189,03-08-2022
+1841,Ratio Finance,ratio-finance,solana:ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J,RATIO,Solana,ratio-finance,0,18048,CDP,['Solana'],['Coingecko'],ratio-finance,2254233.514,42092366,0,03-08-2022
+497,Float Protocol,float-protocol,0x24a6a37576377f63f194caa5f518a60f45b42921,BANK,Ethereum,float-protocol,2,8612,Yield,['Ethereum'],,float-protocol,931664.318,988522,790303,03-08-2022
+193,Unit Protocol,unit-protocol,0x92e187a03b6cd19cb6af293ba17f2745fd2357d5,DUCK,Ethereum,unit-protocol-duck,2,7977,CDP,['Ethereum'],,unit-protocol,364914.8584,12472376,5548202,03-08-2022
+1811,Spice Trade,spice-trade,0x18a1Ea69A50A85752b7bC204a2c45A95Ce6E429d,SPICE,Multi-Chain,spice-trade,0,20328,Algo-Stables,"['Ethereum', 'Avalanche', 'Binance', 'Polygon']",[],spice-trade,94589.46566,466066,26472,03-08-2022
+1387,DEUS Finance,deus-finance,0xde5ed76e7c05ec5e4572cfc88d1acea165109e44,DEUS,Multi-Chain,deus-finance-2,0,12972,CDP,"['Ethereum', 'Polygon', 'Fantom']",[],deus-finance,7066.663721,10000191,3393135,03-08-2022
+1717,CoinFLEX,CoinFLEX,smartbch:0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3,FLEX,smartBCH,flex-coin,2,5190,Staking,['smartBCH'],['Chainlink'],coinflex,0,39607186,39581792,03-08-2022
